@@ -1,3 +1,3 @@
 # airWatcher
 
-Air quality analysis
+C++ application to analyze and provide insight on air quality
